@@ -1,0 +1,23 @@
+.container {
+  background-color: var(--color-grey-900);
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2rem 2rem;
+}
+.container li {
+  cursor: pointer;
+  list-style: none;
+  margin-left: 1.6rem;
+}
+.container a {
+  color: var(--color-grey-100);
+  font-size: var(--size-4);
+}
+.navLinks {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}

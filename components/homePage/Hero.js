@@ -13,7 +13,10 @@ const Hero = () => {
         />
       </div>
       <h1>Hi, I'm Kaan</h1>
-      <p>lorem</p>
+      <p>
+        I write about web development, engineering and corporate life but most
+        of the time you can find me talking about frontend technologies.
+      </p>
     </section>
   );
 };
